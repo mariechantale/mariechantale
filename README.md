@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mariechantale
 - 👀 I’m interested in coding learning
-- 🌱 I’m currently learning golang 
+- 🌱 I’m currently learning golang, html, css, javascript
 - 💞️ I’m looking to collaborate on golang project
 - 📫 How to reach me mchantalelocko@gmail.com
 
